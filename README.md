@@ -20,7 +20,7 @@ Learning Plan:
 - Long Short-Term Memory (LSTMs) and Gated Recurrent Units (GRUs)
 
 - Self-Attention Mechanism
-- Transofrmer Architecture
+- Transformer Architecture
 - Fine-Tuning LLMs
 
 - Hyperparameter Tuning
