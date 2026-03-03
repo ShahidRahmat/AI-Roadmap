@@ -22,7 +22,7 @@ Specialised Architectures:
 - Recurrent Neural Networks
 - Long Short-Term Memory (LSTMs) and Gated Recurrent Units (GRUs)
 
-Attention and Transofrmers
+Attention and Transformers
 - Self-Attention Mechanism
 - Transformer Architecture
 - Fine-Tuning LLMs
