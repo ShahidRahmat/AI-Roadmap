@@ -3,7 +3,6 @@ Learning AI from the basics.
 
 Linear Models and Optimization:
 - Linear Regression
-- Multiple Linear Regression
 - Gradient Descent
 
 Classification Foundations:
