@@ -2,17 +2,17 @@
 Learning AI from the basics.
 
 Linear Models and Optimization:
-- Linear Regression
-- Gradient Descent
+- Linear Regression ✅
+- Gradient Descent ✅
 
 Classification Foundations:
-- Logistic Regression
-- Manual Perceptron
-- Cross-Entropy Loss
+- Logistic Regression ✅
+- Manual Perceptron ✅
+- Cross-Entropy Loss ✅
 
 Deep Learning Fundamentals:
 - Multi-Layer Perceptrons
-- Activation Functions
+- Activation Functions ✅
 - Backpropagation
 - SoftMax & Multi-Class Classification
 
