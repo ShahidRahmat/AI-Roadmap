@@ -11,9 +11,8 @@ Classification Foundations:
 - Cross-Entropy Loss ✅
 
 Deep Learning Fundamentals:
-- Multi-Layer Perceptrons
+- Multi-Layer Perceptrons w/ Backpropagation
 - Activation Functions ✅
-- Backpropagation
 - SoftMax & Multi-Class Classification
 
 Specialised Architectures:
